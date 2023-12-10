@@ -16,21 +16,21 @@ dataset with hourly bike counts, weather, and holiday info. Key variables includ
 ### Project Structure
 1. Importing libraries and data
 2. Data Cleaning
-  a. Data Exploration
-  b. Data Manipulation
-  c. Encoding
+  1. Data Exploration
+  2. Data Manipulation
+  3. Encoding
 3. Data Visualization
 4. Machine Learning
-  a. Modeling: the attendance is determined based on the percentiles
+  1. Modeling: the attendance is determined based on the percentiles
     1. Clustering
     2. Decision Tree, Naive Bayesian and Random Forest Regression
-  b. Modeling: the attendance is determined in a binary way
+  2. Modeling: the attendance is determined in a binary way
     1. Clustering
     2. Decision Tree, Naive Bayesian and Random Forest Regression
-  c. Modeling: the attendance is determined arbitrarily
+  3. Modeling: the attendance is determined arbitrarily
     1. Clustering
     2. Decision Tree, Naive Bayesian and Random Forest Regression
-  d. Conclusion
+  4. Conclusion
 5. Conclusion
 6. API
 
