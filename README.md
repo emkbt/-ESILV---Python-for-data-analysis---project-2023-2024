@@ -19,20 +19,20 @@ dataset with hourly bike counts, weather, and holiday info. Key variables includ
   1. Data Exploration
   2. Data Manipulation
   3. Encoding
-3. Data Visualization
-4. Machine Learning
-  1. Modeling: the attendance is determined based on the percentiles
-    1. Clustering
-    2. Decision Tree, Naive Bayesian and Random Forest Regression
-  2. Modeling: the attendance is determined in a binary way
-    1. Clustering
-    2. Decision Tree, Naive Bayesian and Random Forest Regression
-  3. Modeling: the attendance is determined arbitrarily
-    1. Clustering
-    2. Decision Tree, Naive Bayesian and Random Forest Regression
-  4. Conclusion
-5. Conclusion
-6. API
+4. Data Visualization
+5. Machine Learning
+   1. Modeling: the attendance is determined based on the percentiles
+      1. Clustering
+      2. Decision Tree, Naive Bayesian and Random Forest Regression
+   2. Modeling: the attendance is determined in a binary way
+     1. Clustering
+     2. Decision Tree, Naive Bayesian and Random Forest Regression
+   3. Modeling: the attendance is determined arbitrarily
+      1. Clustering
+      2. Decision Tree, Naive Bayesian and Random Forest Regression
+   4. Conclusion
+6. Conclusion
+7. API
 
 ### Conclusion
 Giving the climate measures of a day, the hour and the date, we can say, using DecisionTree with 90% of accuracy, if the attendance of the rented bike system in Seoul is low or high. With more than 80% of accuracy and the same algorithm, we can even detail the attendance of the rent with 4 degrees based on the stats of rented bike number that we have.
